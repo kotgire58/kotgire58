@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Kamal Kotgire, a graduate student at Northeastern University and a Full stack developer. I specialize in React, Node.js, JavaScript, TypeScript, Python, AWS, and Terraform, among other technologies.<br><br>I have worked on RESTful APIs, microservices, cloud infrastructure, and modern frontend frameworks to deliver high-performance applications. My experience includes developing intelligent stock ranking platforms, designing AWS-based architectures, and optimizing web performance.<br><br>With a keen interest in finance technology and automation, I am looking for opportunities to leverage my skills in software engineering, cloud computing, and DevOps to drive innovation.<br><br> 
+AI/ML Engineer with 3+ years of experience building and deploying production-grade machine learning and generative AI systems. Specialized in Python-based ML pipelines, large language models (LLMs), Retrieval-Augmented Generation (RAG), and scalable cloud-native architectures. Strong background in end-to-end model development, evaluation, optimization, and integration into full-stack applications.
+
+Experienced in designing intelligent systems for predictive modeling, anomaly detection, NLP, financial analytics, and recommendation engines. Adept at leveraging AWS and Azure cloud ecosystems for model training, deployment, monitoring, and automation. Passionate about applying AI to solve real-world problems in fintech, automation, and data-driven decision systems..<br><br> 
 
 
 ## 🌐 Socials:
